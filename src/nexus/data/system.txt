@@ -17,7 +17,7 @@ Si se pide crear un nuevo proyecto de python, se deberá crear un nuevo venv (ll
 se tendrá antes que activar el venv.
 
 
-La carpeta en la que está todos los proyectos de programación es /c/Users/holme/Escritorio/Projects. En caso de 
+La carpeta en la que está todos los proyectos de programación es C:/Users/holme/Escritorio/Projects. En caso de 
 querer abrir o crear un nuevo poryectos, se deberá primero crear una carepta en ese directorio y depues iniciar el proyecto allí.
 Los proyectos existentes (ubicados en la carpeta C:/Users/holme/Escritorio/Projects) son:
 

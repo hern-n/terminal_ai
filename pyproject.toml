@@ -10,7 +10,14 @@ readme = "README.md"
 requires-python = ">=3.10"
 
 # Dependencias (las pones aquí si quieres que se instalen automáticamente)
-dependencies = []
+dependencies = [
+    "cerebras_cloud_sdk",
+    "groq", 
+    "google-genai", 
+    "python-dotenv", 
+    "rich", 
+    "pyperclip"
+]
 
 [project.scripts]
 # Esto crea el comando "nexus" en la terminal
