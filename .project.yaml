@@ -1,0 +1,14 @@
+name: nexus
+description: Asistente de terminal
+author: Hernán
+version: 0.1.0
+technologies:
+  - Python
+  - CLI
+repository: https://github.com/hern-n/terminal_ai.git
+tags:
+  - cli
+  - ai
+  - terminal
+  - assistant
+lastModified: '2026-02-08T18:45:05.323Z'

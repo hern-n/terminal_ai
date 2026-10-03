@@ -7,7 +7,7 @@ data_file = files("nexus").joinpath("data/data.json")
 system_file = files("nexus").joinpath("data/system.txt")
 command_file = files("nexus").joinpath("data/commands_data.txt")
 projects_folder = "C:/Users/holme/Escritorio/Projects"       # Esto para windows
-# projects_folder = "/mnt/c/Users/holme/Escritorio/Projects" Esto para wsl
+# projects_folder = "/mnt/c/Users/holme/Escritorio/Projects" # Esto para WSL/Ubuntu
 
 projects = [
     nombre for nombre in os.listdir(projects_folder)
